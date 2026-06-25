@@ -7554,7 +7554,7 @@ const data6: Protocol[] = [
     audits: "0",
     gecko_id: null,
     cmcId: null,
-    category: "NFT Marketplace",
+    category: "Physical TCG",
     chains: ["Base"],
     module: "dummy.js",
     twitter: "pump_box",
